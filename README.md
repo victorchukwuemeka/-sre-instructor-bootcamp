@@ -1,11 +1,3 @@
-This is a solid proposal, and I see exactly what you need. You have to **teach** this 44-hour SRE course next week, which means you need to go from "familiar" to "instructor-ready" in about 5-7 days.
-
-I have broken this down into a **README.md** file for you. This is your personal bootcamp roadmap. It prioritizes the **minimum teachable concepts** first, then the deeper labs.
-
-Save this as `README.md` on your computer.
-
----
-
 # Fast Assimilation Course (4-Day Sprint)
 You want speed and retention. This is the shortest safe path to instructor-ready. Each day is 5–7 focused hours. If you have less time, do the **Must-Teach** items only.
 
