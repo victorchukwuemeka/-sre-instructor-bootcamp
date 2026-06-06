@@ -1,0 +1,14 @@
+# Hide instructor prep materials from public repos
+instructor/
+
+# MkDocs build output
+site/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

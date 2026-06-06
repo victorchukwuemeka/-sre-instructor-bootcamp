@@ -1,0 +1,18 @@
+site_name: SRE Training
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - palette.toggle  # adds a button to switch dark/light
+
+
+nav:
+  - Home: "index.md"
+  - Module 1 — Intro to SRE: "01_Module_1_Intro_to_SRE.md"
+  - Module 2 — Service Level Mgmt: "02_Module_2_Service_Level_Management.md"
+  - Module 3 — Toil & Automation: "03_Module_3_Toil_and_Automation.md"
+  - Module 4 — Monitoring & Observability: "04_Module_4_Monitoring_Observability.md"
+  - Module 5 — Incident Management: "05_Module_5_Incident_Management.md"
+  - Module 6 — Advanced SRE & Capstone: "06_Module_6_Advanced_SRE_Capstone.md"
+  - SRE Labs: "sre-labs/"
